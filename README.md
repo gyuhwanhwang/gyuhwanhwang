@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6AAFE6&fontColor=34314c&height=250&section=header&text=Gyuhwan%20Hwang&fontSize=80&animation=twinkling)
 
 <h1 align="center">🙋‍♂ ️ME </h1>
-<h3 align="center"> _I hope to be a backend developer._ </h3>
 
 ####  _I hope to be a backend developer._
 - Nice to meet you. I majored in Computer Science at Hongik University (Seoul).
