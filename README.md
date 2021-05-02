@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6AAFE6&fontColor=34314c&height=250&section=header&text=Gyuhwan%20Hwang&fontSize=80&animation=twinkling)
+- I hope to be a backend developer.
 <!--
 **gyuhwanhwang/gyuhwanhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
