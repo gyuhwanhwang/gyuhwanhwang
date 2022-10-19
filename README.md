@@ -5,8 +5,9 @@
 ####  _I hope to be a backend developer._
 - Nice to meet you. I majored in Computer Science at Hongik University (Seoul).
 - I studied web service development for a year at "like lion", a coding association club.
-####  _Risk Management_
+####  _Risk Management System_
 - I am currently in charge of risk system development and operation at Mirae Asset Securities.
+- Here I use Java and Spring.
 <br>
 
 <h2 align="center">📝 Studying.. </h2>
