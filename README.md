@@ -18,12 +18,6 @@
 </p>
 <br>
 
-<h2 align="center">📗 Certificate </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Engineer Information Processin-정보처리기사-red"/>
-  <img src="https://img.shields.io/badge/SQL Developer-SQL개발자-FFC312"/>
-</p>
-
 
 <!--
 **gyuhwanhwang/gyuhwanhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
