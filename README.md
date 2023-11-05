@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=JPA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-    <br>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
 <br>
